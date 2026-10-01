@@ -1,0 +1,41 @@
+{
+  "fictional": true,
+  "currency": "INR",
+  "services": [
+    {
+      "id": "discovery",
+      "name": "Discovery and requirements workshop",
+      "unit": "workshop",
+      "unit_price": 10000,
+      "timeline": "1 week"
+    },
+    {
+      "id": "crm",
+      "name": "CRM workflow configuration",
+      "unit": "project",
+      "unit_price": 40000,
+      "timeline": "3 to 4 weeks"
+    },
+    {
+      "id": "dashboard",
+      "name": "Sales reporting dashboard",
+      "unit": "dashboard",
+      "unit_price": 20000,
+      "timeline": "2 weeks"
+    },
+    {
+      "id": "training",
+      "name": "User training",
+      "unit": "session",
+      "unit_price": 5000,
+      "timeline": "1 week, subject to scheduling"
+    },
+    {
+      "id": "support",
+      "name": "Post-launch support",
+      "unit": "month",
+      "unit_price": 10000,
+      "timeline": "Monthly after launch"
+    }
+  ]
+}
